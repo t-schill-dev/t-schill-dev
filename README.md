@@ -1,15 +1,15 @@
 # Welcome to my account
 
 <h1 align="center">Hi 👋, I'm Timon</h1>
-<h3 align="center">A passionate frontend developer and fullstack developer</h3>
+<h3 align="center">A passionate frontend developer and fullstack developer based in Tampa, FL</h3>
 
-- 🔭 I’m currently working on **technical writing**
+- 🔭 I’m currently working on **Ecommerce site**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 👨‍💻 All of my projects are available at [http://timon-schill.atwebpages.com/](http://timon-schill.atwebpages.com/)
+- 👨‍💻 All of my projects are available at [http://timonschill.dev/](http://timonschill.dev)
 
 - 💬 Ask me about **React, JS,**
 
